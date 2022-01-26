@@ -1,0 +1,8 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="语言注入/取消注入语言或引用" />
+    <ignoreAction name="XML/将文本转换为 CDATA" />
+    <ignoreAction name="语言注入/编辑注入的片段" />
+    <ignoreAction name="语言注入/编辑注入设置" />
+  </component>
+</application>

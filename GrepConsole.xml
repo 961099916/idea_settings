@@ -1,0 +1,309 @@
+<application>
+  <component name="GrepConsole">
+    <option name="grepHistory">
+      <list>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="9612" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="【请求参数】：{&quot;creator_userid&quot;:&quot;ZhangJiahao&quot;,&quot;template_id&quot;:&quot;3WK7BWMsPGMFhYUENjxwdCLP1UzccyLCTgiwzovP&quot;,&quot;approver&quot;:[{&quot;attr&quot;:1,&quot;userid&quot;:[&quot;ZhangJiahao&quot;]}],&quot;apply_data&quot;:{&quot;contents&quot;:[{&quot;control&quot;:&quot;Text&quot;,&quot;id&quot;:&quot;Text-1636710686352&quot;,&quot;title&quot;:[{&quot;text&quot;:&quot;运单编号&quot;,&quot;lang&quot;:&quot;zh_CN&quot;}],&quot;value&quot;:{&quot;text&quot;:&quot;HJT-YD-20211201008&quot;}},{&quot;control&quot;:&quot;Text&quot;,&quot;id&quot;:&quot;Text-1636710724689&quot;,&quot;title&quot;:[{&quot;text&quot;:&quot;工程名称&quot;,&quot;lang&quot;:&quot;zh_CN&quot;}],&quot;value&quot;:{&quot;text&quot;:&quot;原材料运输&quot;}},{&quot;control&quot;:&quot;Text&quot;,&quot;id&quot;:&quot;Text-1636946289631&quot;,&quot;title&quot;:[{&quot;text&quot;:&quot;发车日期&quot;,&quot;lang&quot;:&quot;zh_CN&quot;}],&quot;value&quot;:{&quot;text&quot;:&quot;2021-12-15&quot;}},{&quot;control&quot;:&quot;Text&quot;,&quot;id&quot;:&quot;Text-1636946332595&quot;,&quot;title&quot;:[{&quot;text&quot;:&quot;过磅重量&quot;,&quot;lang&quot;:&quot;zh_CN&quot;}],&quot;value&quot;:{&quot;text&quot;:&quot;20.0000&quot;}},{&quot;control&quot;:&quot;Text&quot;,&quot;id&quot;:&quot;Text-1636946622775&quot;,&quot;title&quot;:[{&quot;text&quot;:&quot;计划重量&quot;,&quot;lang&quot;:&quot;zh_CN&quot;}],&quot;value&quot;:{&quot;text&quot;:&quot;3.7800&quot;}},{&quot;control&quot;:&quot;Table&quot;,&quot;id&quot;:&quot;Table-1636710889765&quot;,&quot;title&quot;:[{&quot;text&quot;:&quot;明细&quot;,&quot;lang&quot;:&quot;zh_CN&quot;}],&quot;value&quot;:{&quot;children&quot;:[{&quot;list&quot;:[{&quot;control&quot;:&quot;Text&quot;,&quot;id&quot;:&quot;Text-1636710909116&quot;,&quot;title&quot;:[{&quot;text&quot;:&quot;产品名称&quot;,&quot;lang&quot;:&quot;zh_CN&quot;}],&quot;value&quot;:{&quot;text&quot;:&quot;钢材&quot;}},{&quot;control&quot;:&quot;Text&quot;,&quot;id&quot;:&quot;Text-1636710918080&quot;,&quot;title&quot;:[{&quot;text&quot;:&quot;塔型&quot;,&quot;lang&quot;:&quot;zh_CN&quot;}],&quot;value&quot;:{&quot;text&quot;:&quot;连扳&quot;}},{&quot;control&quot;:&quot;Text&quot;,&quot;id&quot;:&quot;Text-1636946712809&quot;,&quot;title&quot;:[{&quot;text&quot;:&quot;呼高&quot;,&quot;lang&quot;:&quot;zh_CN&quot;}],&quot;value&quot;:{&quot;text&quot;:&quot;11.0000&quot;}},{&quot;control&quot;:&quot;Text&quot;,&quot;id&quot;:&quot;Text-1636946722357&quot;,&quot;title&quot;:[{&quot;text&quot;:&quot;基数&quot;,&quot;lang&quot;:&quot;zh_CN&quot;}],&quot;value&quot;:{&quot;text&quot;:&quot;1&quot;}},{&quot;control&quot;:&quot;Text&quot;,&quot;id&quot;:&quot;Text-1636710976717&quot;,&quot;title&quot;:[{&quot;text&quot;:&quot;塔位号&quot;,&quot;lang&quot;:&quot;zh_CN&quot;}],&quot;value&quot;:{&quot;text&quot;:&quot;no&quot;}},{&quot;control&quot;:&quot;Text&quot;,&quot;id&quot;:&quot;Text-1636711041467&quot;,&quot;title&quot;:[{&quot;text&quot;:&quot;班组&quot;,&quot;lang&quot;:&quot;zh_CN&quot;}],&quot;value&quot;:{&quot;text&quot;:&quot;&quot;}},{&quot;control&quot;:&quot;Text&quot;,&quot;id&quot;:&quot;Text-1636711049021&quot;,&quot;title&quot;:[{&quot;text&quot;:&quot;包名称&quot;,&quot;lang&quot;:&quot;zh_CN&quot;}],&quot;value&quot;:{&quot;text&quot;:&quot;K-22&quot;}},{&quot;control&quot;:&quot;Text&quot;,&quot;id&quot;:&quot;Text-1636946676421&quot;,&quot;title&quot;:[{&quot;text&quot;:&quot;总重量&quot;,&quot;lang&quot;:&quot;zh_CN&quot;}],&quot;value&quot;:{&quot;text&quot;:&quot;3.7800&quot;}}]}]}}]}}" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+      </list>
+    </option>
+    <option name="profiles">
+      <list>
+        <Profile>
+          <option name="defaultProfile" value="true" />
+          <option name="grepExpressionGroups">
+            <list>
+              <GrepExpressionGroup>
+                <option name="grepExpressionItems">
+                  <list>
+                    <GrepExpressionItem>
+                      <option name="grepExpression" value=".*FATAL.*" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-65536" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="bold" value="true" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="grepExpression" value=".*ERROR.*" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-14336" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="grepExpression" value=".*WARN.*" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-256" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=".*INFO.*" />
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="grepExpression" value=".*DEBUG.*" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-8355712" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="grepExpression" value=".*TRACE.*" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-4144960" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                  </list>
+                </option>
+                <option name="name" value="default" />
+              </GrepExpressionGroup>
+              <GrepExpressionGroup>
+                <option name="grepExpressionItems">
+                  <list>
+                    <GrepExpressionItem>
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=".*FATAL.*" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-65536" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="bold" value="true" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=".*ERROR.*" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-14336" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=".*WARN.*" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-256" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=".*INFO.*" />
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=".*DEBUG.*" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-8355712" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=".*TRACE.*" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-4144960" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                  </list>
+                </option>
+                <option name="name" value="@Light Theme@" />
+              </GrepExpressionGroup>
+              <GrepExpressionGroup>
+                <option name="grepExpressionItems">
+                  <list>
+                    <GrepExpressionItem>
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=".*FATAL.*" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="bold" value="true" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=".*ERROR.*" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-935919616" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=".*WARN.*" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-937820105" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=".*INFO.*" />
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=".*DEBUG.*" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-8355712" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=".*TRACE.*" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                  </list>
+                </option>
+                <option name="name" value="@Dark Theme@" />
+              </GrepExpressionGroup>
+            </list>
+          </option>
+          <option name="id" value="1630801230042" />
+          <option name="inputFilterGroups">
+            <list>
+              <GrepExpressionGroup>
+                <option name="grepExpressionItems">
+                  <list>
+                    <GrepExpressionItem>
+                      <option name="action" value="REMOVE" />
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=".*unwanted line.*" />
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="action" value="REMOVE_UNLESS_PREVIOUSLY_MATCHED" />
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=".*unwanted line.*" />
+                    </GrepExpressionItem>
+                  </list>
+                </option>
+                <option name="name" value="default" />
+              </GrepExpressionGroup>
+            </list>
+          </option>
+          <option name="name" value="default" />
+        </Profile>
+      </list>
+    </option>
+    <option name="version" value="1" />
+  </component>
+</application>

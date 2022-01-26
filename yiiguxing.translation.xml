@@ -1,0 +1,43 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogX" value="814" />
+    <option name="newTranslationDialogY" value="473" />
+    <histories>
+      <item value="corn" />
+      <item value="purchaseOrderNo" />
+      <item value="purchase Order No" />
+      <item value="Rounding mode to round away from zero. Always increments the digit prior to a nonzero discarded fraction. Note that this rounding mode never decreases the magnitude of the calculated value." />
+      <item value="Modify the application context's internal bean factory after its standard initialization. All bean definitions will have been loaded, but no beans will have been instantiated yet. This allows for registering special BeanPostProcessors etc in certain ApplicationContext implementations." />
+      <item value="configure the factory's standard context characteristics, such as the context's classloader and post-processors." />
+      <item value="context" />
+      <item value="Configure the factory's standard context characteristics, such as the context's ClassLoader and post-processors." />
+      <item value="Do nothing: We hold a single internal BeanFactory and rely on callers to register beans through our public methods (or the BeanFactory's)." />
+      <item value="Tell the subclass to refresh the internal bean factory." />
+      <item value="REPLACE ANY STUB PROPERTY SOURCES WITH ACTUAL INSTANCES." />
+      <item value="GET BY vehicle" />
+      <item value="File" />
+      <item value="Minimum idle Redis connection amount." />
+      <item value="A basic, no operation {@link CacheManager} implementation suitable for disabling caching, typically used for backing cache declarations without an actual backing store. &lt;p&gt; Will simply accept any items into the cache not actually storing them." />
+      <item value="depart Plan Number" />
+      <item value="Composite {@link CacheManager} implementation that iterates over a given collection of delegate {@link CacheManager} instances. &lt;p&gt; Allows {@link NoOpCacheManager} to be automatically added to the end of the list for handling cache declarations without a backing store. Otherwise, any custom {@link CacheManager} may play that role of the last delegate as well, lazily creating cache regions for any requested name. &lt;p&gt; Note: Regular CacheManagers that this composite manager delegates to need to return {@code null} from {@link getCache(String)} if they are unaware of the specified cache name, allowing for iteration to the next delegate in line. However, most {@link CacheManager} implementations fall back to lazy creation of named caches once requested; check out the specific configuration details for a 'static' mode with fixed cache names, if available." />
+      <item value="Convert the given value from the internal store to a user value returned from the get method (adapting" />
+      <item value="Perform an actual lookup in the underlying store." />
+      <item value="Dynamically register an additional Cache with this manager." />
+      <item value="Update the exposed {@link cacheNames} set with the given name. &lt;p&gt; This will always be called within a full {@link cacheMap} lock and effectively behaves like a {@code CopyOnWriteArraySet} with preserved order but exposed as an unmodifiable reference. @param name the name of the cache to be added" />
+      <item value="Returns an unmodifiable view of the specified set. Query operations on the returned set &quot;read through&quot; to the specified set, and attempts to modify the returned set, whether direct or via its iterator, result in an UnsupportedOperationException." />
+      <item value="Load the initial caches for this cache manager." />
+      <item value="Interface to be implemented by beans that need to react once all their properties have been set by a {@link BeanFactory}: e.g. to perform custom initialization, or merely to check that all mandatory properties have been set. &lt;p&gt; An alternative to implementing {@code InitializingBean} is specifying a custom init method, for example in an XML bean definition. For a list of all bean lifecycle methods, see the {@link BeanFactory BeanFactory javadocs}." />
+      <item value="Spring's central cache manager SPI" />
+      <item value="Interface to be implemented by any @{@link Configuration} class that wishes to be injected with the {@link AnnotationMetadata} of the @{@code Configuration} class that imported it. Useful in conjunction with annotations that use @{@link Import} as a meta-annotation." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="24" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1640945116366" />
+  </component>
+</application>
