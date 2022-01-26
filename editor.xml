@@ -43,4 +43,8 @@
       <Rule MATCH="(.*)_(?i)id" REPLACE="base_$1\\.(?i)id" />
     </FK_RULES>
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
 </application>
