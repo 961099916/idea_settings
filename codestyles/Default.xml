@@ -1,4 +1,5 @@
 <code_scheme name="Default" version="173">
+  <option name="ENABLE_SECOND_REFORMAT" value="true" />
   <SqlCodeStyleSettings version="6">
     <option name="DISABLE_FORMATTING" value="true" />
   </SqlCodeStyleSettings>
