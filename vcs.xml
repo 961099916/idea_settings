@@ -172,7 +172,7 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://codeup.aliyun.com" />
-          <option name="userName" value="961099916@qq.com" />
+          <option name="userName" value="961099916" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://gitee.com/zztech2020/wlhy-user.git" />
@@ -184,6 +184,10 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://codeup.aliyun.com/61ecb92a0bb300d827e1d1b9/smart/smart.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://codeup.aliyun.com/61ecb92a0bb300d827e1d1b9/smart/smart-ui.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
