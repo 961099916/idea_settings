@@ -202,6 +202,14 @@
           <option name="url" value="https://github.com/961099916/esp8266.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.sinzetech.com/zhangxutao/saikul-platform.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.sinzetech.com" />
+          <option name="userName" value="zhangxutao" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
