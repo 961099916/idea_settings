@@ -227,8 +227,12 @@
         <option value="Default.Subject" />
         <option value="Default.Author" />
         <option value="Default.Date" />
-        <option value="Space.CommitStatus" />
       </list>
+    </option>
+    <option name="COLUMN_ID_VISIBILITY">
+      <map>
+        <entry key="Table.Space.CommitStatus.ColumnIdVisibility" value="false" />
+      </map>
     </option>
   </component>
 </application>
