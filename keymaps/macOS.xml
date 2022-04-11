@@ -1,4 +1,10 @@
 <keymap version="1" name="macOS 副本" parent="Mac OS X 10.5+">
+  <action id="Git.Fetch">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="Images.Thumbnails.UpFolder" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
