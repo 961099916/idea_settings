@@ -1,0 +1,9 @@
+<application>
+  <component name="MavenWrapperMapping">
+    <option name="mapping">
+      <map>
+        <entry key="https://maven-central.storage-download.googleapis.com/maven2/org/apache/maven/apache-maven/3.8.4/apache-maven-3.8.4-bin.zip" value="$USER_HOME$/.m2/wrapper/dists/apache-maven-3.8.4-bin/tbiupq1a1ul2jnbo2tqshg820/apache-maven-3.8.4" />
+      </map>
+    </option>
+  </component>
+</application>
