@@ -1,11 +1,9 @@
 <keymap version="1" name="macOS 副本" parent="Mac OS X 10.5+">
   <action id="Compile">
-    <keyboard-shortcut first-keystroke="shift r" />
+    <keyboard-shortcut first-keystroke="shift meta f9" />
+    <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="CompileDirty" />
-  <action id="CompileProject">
-    <keyboard-shortcut first-keystroke="shift r" />
-  </action>
   <action id="Git.Fetch">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
