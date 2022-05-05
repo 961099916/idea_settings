@@ -1,5 +1,6 @@
 <application>
   <component name="GrepConsole">
+    <option name="autoReloadGrepModel" value="true" />
     <option name="grepHistory">
       <list>
         <GrepCompositeModel>
@@ -25,6 +26,16 @@
             <list>
               <GrepModel>
                 <option name="expression" value="" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="caseSensitive" value="true" />
+                <option name="expression" value="Exception" />
               </GrepModel>
             </list>
           </option>
@@ -112,7 +123,6 @@
                     </GrepExpressionItem>
                   </list>
                 </option>
-                <option name="name" value="default" />
               </GrepExpressionGroup>
               <GrepExpressionGroup>
                 <option name="grepExpressionItems">
@@ -296,7 +306,6 @@
                     </GrepExpressionItem>
                   </list>
                 </option>
-                <option name="name" value="default" />
               </GrepExpressionGroup>
             </list>
           </option>
