@@ -36,6 +36,7 @@
               <GrepModel>
                 <option name="caseSensitive" value="true" />
                 <option name="expression" value="Exception" />
+                <option name="wholeWords" value="true" />
               </GrepModel>
             </list>
           </option>
