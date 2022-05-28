@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="473" />
     <histories>
+      <item value="Throw exceptions during service registration if true, otherwise, log error (defaults to true)." />
+      <item value="If instance is ephemeral.The default value is true." />
       <item value="watch delay,duration to pull new service from nacos server." />
       <item value="Quantity ERROR" />
       <item value="FINER indicates a fairly detailed tracing message. By default logging calls for entering, returning, or throwing an exception are traced at this level. This level is initialized to &lt;CODE&gt;400&lt;CODE&gt;." />
@@ -41,12 +43,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="35" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653220157071" />
+    <option name="lastTrimTime" value="1653739838025" />
   </component>
 </application>
