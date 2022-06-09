@@ -25,7 +25,9 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="" />
+                <option name="caseSensitive" value="true" />
+                <option name="expression" value="Exception" />
+                <option name="wholeWords" value="true" />
               </GrepModel>
             </list>
           </option>
@@ -34,9 +36,7 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="caseSensitive" value="true" />
-                <option name="expression" value="Exception" />
-                <option name="wholeWords" value="true" />
+                <option name="expression" value="" />
               </GrepModel>
             </list>
           </option>
