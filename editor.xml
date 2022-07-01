@@ -7,9 +7,6 @@
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings">
-    <option name="SHOW_METHOD_SEPARATORS" value="true" />
-  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />
     <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
@@ -49,9 +46,13 @@
     </option>
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc;*.java" />
+    <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <option name="ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_BLOCK_CURSOR" value="true" />
-    <option name="IS_WHITESPACES_SHOWN" value="true" />
+    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
