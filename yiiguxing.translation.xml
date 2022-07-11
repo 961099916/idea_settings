@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The name of the properties to test. If a prefix has been defined, it is applied to compute the full key of each property. For instance if the prefix is {@code app.config} and one value is {@code my-value}, the full key would be {@code app.config.my-value} &lt;p&gt; Use the dashed notation to specify each property, that is all lower case with a &quot;-&quot; to separate words (e.g. {@code my-long-property}). @return the names" />
       <item value="watch delay,duration to pull new service from nacos server." />
       <item value="`" />
       <item value="Throw exceptions during service registration if true, otherwise, log error (defaults to true)." />
@@ -45,12 +46,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="37" />
+        <entry key="CHINESE" value="37" />
+        <entry key="ENGLISH" value="38" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1654487416964" />
+    <option name="lastTrimTime" value="1657534349764" />
   </component>
 </application>
