@@ -1,5 +1,6 @@
 <application>
   <component name="GrepConsole">
+    <option name="allowRunConfigurationChanges" value="false" />
     <option name="autoReloadGrepModel" value="true" />
     <option name="grepHistory">
       <list>
