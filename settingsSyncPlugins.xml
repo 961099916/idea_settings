@@ -319,7 +319,6 @@
                   <option value="com.jetbrains.projector.libs" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -368,6 +367,11 @@
           </value>
         </entry>
         <entry key="de.kontext_e.idea.plugins.autofill">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
+        <entry key="idea.plugin.protoeditor">
           <value>
             <PluginData />
           </value>
