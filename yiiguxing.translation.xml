@@ -2,8 +2,9 @@
   <component name="AppStorage">
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="473" />
-    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Inserts the specified element into this queue if it is possible to do so immediately without violating capacity restrictions, returning {@code true} upon success and throwing an {@code IllegalStateException} if no space is currently available." />
+      <item value="Inserts the specified element into this queue if it is possible to do so immediately without violating capacity restrictions. When using a capacity-restricted queue, this method is generally preferable to {@link add}, which can fail to insert an element only by throwing an exception." />
       <item value="The name of the properties to test. If a prefix has been defined, it is applied to compute the full key of each property. For instance if the prefix is {@code app.config} and one value is {@code my-value}, the full key would be {@code app.config.my-value} &lt;p&gt; Use the dashed notation to specify each property, that is all lower case with a &quot;-&quot; to separate words (e.g. {@code my-long-property}). @return the names" />
       <item value="watch delay,duration to pull new service from nacos server." />
       <item value="`" />
@@ -46,12 +47,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="38" />
+        <entry key="CHINESE" value="39" />
+        <entry key="ENGLISH" value="40" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1657534349764" />
+    <option name="lastTrimTime" value="1658132349183" />
   </component>
 </application>
