@@ -1,0 +1,9 @@
+<application>
+  <component name="github-copilot">
+    <option name="signinNotificationShown" value="true" />
+    <option name="enableCompletions" value="false" />
+    <option name="inlayTextColor" value="#93a1a1" />
+    <option name="showIdeCompletions" value="true" />
+    <option name="checkForUpdate" value="false" />
+  </component>
+</application>
