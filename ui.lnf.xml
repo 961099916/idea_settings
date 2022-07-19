@@ -1,7 +1,6 @@
 <application>
   <component name="UISettings">
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
-    <option name="compactTreeIndents" value="true" />
     <option name="CONSOLE_COMMAND_HISTORY_LIMIT" value="1000" />
     <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
     <option name="EDITOR_TAB_LIMIT" value="100" />
